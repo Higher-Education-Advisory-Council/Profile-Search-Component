@@ -1,6 +1,6 @@
 # Profile-Search-Component
 
-This is a group of Lightning Components built for Salesforce Communities that uses SOSL (or SOQL optionally) to search the User records for keywords. It is built in the same style as the People Search in Chatter
+This is a group of Lightning Components built for Salesforce Communities that uses SOSL (or SOQL to search on the user's name optionally) to search the User records for keywords. It is built in the same style as the People Search in Chatter
 
 It is built with four components:
 
